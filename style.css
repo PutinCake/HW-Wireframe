@@ -10,8 +10,8 @@ header, p, h1{
     color: #777777;
 }
 
-header{
-    line-height: 50px;
+.headerp{
+    vertical-align: middle;
 }
 
 .cword{
@@ -37,6 +37,7 @@ h1{
 .headbox{
     height: 80px;
     background-color: #ebebeb;
+    padding-top: 10px;
 }
 
 .navbox{
